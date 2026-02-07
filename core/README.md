@@ -1,0 +1,2 @@
+# Core Module
+Librerías compartidas.

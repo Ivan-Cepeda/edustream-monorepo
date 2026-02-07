@@ -1,0 +1,4 @@
+
+# Ignorar modelos binarios y logs
+*.pkl
+*.log
