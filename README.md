@@ -83,5 +83,5 @@ En un Monorepo, no necesitamos un "Artifact Registry" (como S3 o MLflow) obligat
 
 *Error*: No se encuentra el artefacto al correr la API Recuerda que primero debes ejecutar el entrenamiento (ml/train_monorepo.py) para que el archivo .pkl exista físicamente.
 
-#### 📝 Licencia
+#### gi📝 Licencia
 Este proyecto es parte del material educativo de Soy Henry - Carrera de Data Science - Módulo 5.
