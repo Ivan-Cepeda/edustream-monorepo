@@ -15,6 +15,7 @@ En este diseño, todos los componentes del sistema residen bajo un mismo control
 
 Estructura de Carpetas
 Bash
+```
 edustream-monorepo/
 ├── core/               # 🧠 Lógica Compartida (Single Source of Truth)
 │   ├── __init__.py
@@ -26,8 +27,8 @@ edustream-monorepo/
 ├── api/                # 🍽️ Servicio Web (Inference)
 │   ├── app_monorepo.py   # Script de simulación de API
 │   └── __init__.py
-└── README.md           # Documentación
-
+└── README.md # Documentación
+```
 ## 🚀 Guía de Inicio Rápido
 Sigue estos pasos para replicar el ciclo de vida de ML Ops (Entrenamiento -> Despliegue) en tu máquina local.
 
